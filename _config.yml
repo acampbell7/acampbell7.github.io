@@ -6,13 +6,13 @@
 # --- Required options --- #
 
 # Name of website
-title: My website- Allyson Campbell 
-
-# Short description of your site
-description: Learning to code a website, woohoo!
+title: My First Website- AC
 
 # Your name to show in the footer
 author: Allyson Campbell 
+
+# Short description of your site
+description: Learning to code a website, woohoo!
 
 # --- List of links in the navigation bar --- #
 
@@ -22,7 +22,7 @@ navbar-links:
     - Beautiful Jekyll: "https://beautifuljekyll.com"
     - Learn markdown: "https://www.markdowntutorial.com/"
     - Getting Started: "getstarted"                         
-    -  Table Demo: "table-demo"
+  Table Demo: "table-demo"
   Author's home: "https://deanattali.com"
 
 # --- Logo --- #
