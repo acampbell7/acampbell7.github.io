@@ -24,7 +24,7 @@ gosling:
 
 
 
-![]({{site.url}}![image](https://github.com/acampbell7/acampbell7.github.io/assets/133538574/1ae35ad5-42ec-47e5-9c05-3f925d6c65c9))  
+![]({{site.url}}ds4ps.org/barebones-jekyll/assets/img/ryan-v-ryan.jpg)  
 
 
 ## Lorem Ipsum
