@@ -24,7 +24,7 @@ gosling:
 
 
 
-![]({{site.url}}ds4ps.org/barebones-jekyll/assets/img/ryan-v-ryan.jpg)  
+![]({{site.url}}/Users/jeramygordon/Downloads)  
 
 
 ## Lorem Ipsum
