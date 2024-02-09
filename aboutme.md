@@ -1,13 +1,14 @@
 ---
 layout: page
 title: About me
-subtitle: Why you'd want to go on a date with me
+subtitle: Why you'd want to go on a hang out with me
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+My name is Allyson Campbell. I have the following qualities:
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+- I like to hike! Exploring national parks is a fav of mine
+- I'm extremely loyal to my family & dog
+- I love to read, so I won't take up too much of your time
 
 What else do you need?
 
