@@ -4,7 +4,7 @@ title: About me
 subtitle: Why you'd want to go on a hang out with me
 ---
 
-My name is Allyson Campbell. I have the following qualities:
+My name is Allyson Campbell. I enjoy the following qualities:
 
 - I like to hike! Exploring national parks is a fav of mine
 - I'm extremely loyal to my family & dog
